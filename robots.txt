@@ -1,1 +1,1 @@
-Sitemap: https://abdelmoudjib-benterki.github.io/Site/sitemap.xml
+Sitemap: https://benterki.me/Site/sitemap.xml
